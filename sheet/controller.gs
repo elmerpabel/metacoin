@@ -1,6 +1,6 @@
 DIFFICULTY = BigInt('0x0000ff4206900000000000000000000000000000000000000000000000000000');
 SELF_NAME = "user_Bob";
-SHEET_URL = "https://docs.google.com/spreadsheets/d/1iilTYMgNZvOwXSnKA4ebKzSee4eWY7i3LJ9FObhlmKk/edit?usp=sharing";
+SHEET_URL = "https://docs.google.com/spreadsheets/d/1-bqUwkBv68V1a2hCfczPbI0o-l1-zOF3qHXeCS71tS8/edit?usp=sharing";
 
 class Transaction{
   constructor() {
